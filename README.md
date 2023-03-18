@@ -18,4 +18,3 @@ const profile = {
         selfObservation: [ 'Programmer', 'Critical Thinker', 'Problem Solver', 'Web Solutions Architect' ]
     }
 }
-
